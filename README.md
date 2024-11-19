@@ -1,8 +1,7 @@
 ## AI Chemist: Pioneering the Future of Chemical Science with Gemini Vision Pro
-### Logistic Regression, KNN, Random Forest, Naive Bayes, and Support Vector Classifier.
+### AI Chemist is a cutting-edge application that offers personalized chemical solutions and experimental recommendations using Generative AI.
 
-## Dataset used : 
-### https://www.kaggle.com/datasets/jillanisofttech/heart-disease-prediction-using-differenttechniques
+
 ## To run the code :
 ### 1. Install the requirements.txt
 ```
@@ -10,13 +9,13 @@ pip install -r requirements.txt
 ```
 ### 2. Run the streamlit app.
 ```
-streamlit run myapp.py
+streamlit run app.py
 ```
-### 3. Type the values for the attributes.
-### 4. Click on Predict.
+### 3. Type in the input prompt.
+### 4. Click on Tell me.
 
-## Screenshots
+## Output Screenshots
 
-![Screenshot (365)](https://github.com/BedantaGautom/Heart-Disease-Prediction-Using-Machine-Learning-Techniques/assets/85272308/d2fa3152-3121-4fca-971d-ceddbe3ea8d4)
+## 1 ![screencapture-ai-chemist-streamlit-app-2024-11-19-20_49_46](https://github.com/user-attachments/assets/7c8662ba-888b-4348-9bab-565f70d9eb2a)
 
-
+## 2 ![screencapture-ai-chemist-streamlit-app-2024-11-19-20_49_15](https://github.com/user-attachments/assets/3b0a7c9c-e60b-4455-92aa-a4b822fb9396)
