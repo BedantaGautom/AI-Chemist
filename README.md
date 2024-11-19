@@ -1,4 +1,4 @@
-## AI Chemist : 
+## AI Chemist: Pioneering the Future of Chemical Science with Gemini Vision Pro
 ### Logistic Regression, KNN, Random Forest, Naive Bayes, and Support Vector Classifier.
 
 ## Dataset used : 
