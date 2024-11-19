@@ -13,6 +13,7 @@ streamlit run app.py
 ```
 ### 3. Type in the input prompt.
 ### 4. Click on Tell me.
+<br>
 
 ## Output Screenshots
 
