@@ -1,7 +1,6 @@
 ## AI Chemist: Pioneering the Future of Chemical Science with Gemini Vision Pro
 ### AI Chemist is a cutting-edge application that offers personalized chemical solutions and experimental recommendations using Generative AI.
 
-
 ## To run the code :
 ### 1. Install the requirements.txt
 ```
